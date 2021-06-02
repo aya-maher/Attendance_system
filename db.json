@@ -1,0 +1,693 @@
+{
+  "emp": [
+    {
+      "id": 0,
+      "admin": "true",
+      "fname": "aya",
+      "lname": "maher",
+      "username": "admin",
+      "password": "123",
+      "address": "zag",
+      "email": "ayamaherali9@gmail.com",
+      "age": "22",
+      "dateofemp": "Mon Feb 01 2021 20:23:49",
+      "attendance": {
+        "0": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "1": {
+          "days": [
+            "2/11/2021, 6:29:38 AM"
+          ],
+          "late": 1,
+          "excuse": 0
+        },
+        "2": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "3": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "4": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "5": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "6": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "7": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "8": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "9": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "10": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "11": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        }
+      }
+    },
+    {
+      "id": 1,
+      "admin": "",
+      "fname": "22aya",
+      "lname": "Gamal",
+      "username": "kkaya",
+      "password": "552",
+      "address": "Mansoura",
+      "email": "ayagamal@gmail.com",
+      "age": "22",
+      "dateofemp": "Mon Feb 01 2021 20:33:49",
+      "attendance": {
+        "0": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "1": {
+          "days": [
+            "2/11/2021, 6:29:38 AM"
+          ],
+          "late": 1,
+          "excuse": 0
+        },
+        "2": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "3": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "4": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "5": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "6": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "7": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "8": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "9": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "10": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "11": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        }
+      }
+    },
+    {
+      "id": 2,
+      "admin": "",
+      "fname": "id222aya",
+      "lname": "Gamal",
+      "username": "id2kkaya",
+      "password": "2552",
+      "address": "Mansoura",
+      "email": "ayagamal@gmail.com",
+      "age": "22",
+      "dateofemp": "Mon Feb 01 2021 20:33:49",
+      "attendance": {
+        "0": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "1": {
+          "days": [
+            "2/11/2021, 6:29:38 AM"
+          ],
+          "late": 1,
+          "excuse": 0
+        },
+        "2": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "3": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "4": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "5": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "6": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "7": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "8": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "9": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "10": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "11": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        }
+      }
+    },
+    {
+      "id": 3,
+      "admin": "",
+      "fname": "id322aya",
+      "lname": "Gamal",
+      "username": "id3",
+      "password": "333",
+      "address": "Mansoura",
+      "email": "ayagamal@gmail.com",
+      "age": "22",
+      "dateofemp": "Mon Feb 01 2021 20:33:49",
+      "attendance": {
+        "0": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "1": {
+          "days": [
+            "2/11/2021, 6:29:38 AM"
+          ],
+          "late": 1,
+          "excuse": 0
+        },
+        "2": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "3": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "4": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "5": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "6": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "7": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "8": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "9": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "10": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "11": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        }
+      }
+    },
+    {
+      "admin": "",
+      "fname": "test",
+      "lname": "time",
+      "username": "te230",
+      "password": "RmtrjD2T",
+      "address": "zag",
+      "email": "ayamaherali9@gmail.com",
+      "age": "25",
+      "dateofemp": "Wed, 10 Feb 2021 18:03:44 GMT",
+      "attendance": {
+        "0": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "1": {
+          "days": [
+            "2/11/2021, 6:29:38 AM"
+          ],
+          "late": 1,
+          "excuse": 0
+        },
+        "2": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "3": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "4": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "5": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "6": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "7": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "8": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "9": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "10": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "11": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        }
+      },
+      "id": 4
+    },
+    {
+      "admin": "",
+      "fname": "aya",
+      "lname": "maher",
+      "username": "ay223",
+      "password": "S7wtuAAh",
+      "address": "cairo",
+      "email": "ayamaherali9@gmail.com",
+      "dateofemp": "Thu, 11 Feb 2021 06:44:34 GMT",
+      "age": "25",
+      "attendance": {
+        "0": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "1": {
+          "days": [
+            "2/11/2021, 6:29:38 AM"
+          ],
+          "late": 1,
+          "excuse": 0
+        },
+        "2": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "3": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "4": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "5": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "6": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "7": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "8": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "9": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "10": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "11": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        }
+      },
+      "id": 5
+    },
+    {
+      "admin": "",
+      "fname": "test",
+      "lname": "time",
+      "username": "tes693",
+      "password": "HTTd9ulL",
+      "address": "zag",
+      "email": "ayamaherali9@gmail.com",
+      "age": "25",
+      "dateofemp": "Thu, 11 Feb 2021 18:21:45 GMT",
+      "attendance": {
+        "0": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "1": {
+          "days": [
+            "2/11/2021, 8:23:27 PM"
+          ],
+          "late": 1,
+          "excuse": 0
+        },
+        "2": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "3": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "4": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "5": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "6": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "7": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "8": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "9": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "10": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "11": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        }
+      },
+      "id": 6
+    },
+    {
+      "admin": "",
+      "fname": "test",
+      "lname": "time",
+      "username": "tes543",
+      "password": "V5lJy64d",
+      "address": "cairo",
+      "email": "ayamaherali9@gmail.com",
+      "age": "25",
+      "dateofemp": "Sat, 13 Feb 2021 11:02:28 GMT",
+      "attendance": {
+        "0": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "1": {
+          "days": [
+            "2/13/2021, 1:03:51 PM"
+          ],
+          "late": 1,
+          "excuse": 0
+        },
+        "2": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "3": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "4": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "5": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "6": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "7": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "8": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "9": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "10": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "11": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        }
+      },
+      "id": 7
+    },
+    {
+      "admin": "",
+      "fname": "nasr",
+      "lname": "assem",
+      "username": "nas862",
+      "password": "SZUONOIm",
+      "address": "cairo",
+      "email": "engnasr@yahoo.com",
+      "age": "25",
+      "dateofemp": "Sat, 13 Feb 2021 12:11:24 GMT",
+      "attendance": {
+        "0": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "1": {
+          "days": [
+            "2/13/2021, 2:13:16 PM"
+          ],
+          "late": 1,
+          "excuse": 0
+        },
+        "2": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "3": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "4": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "5": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "6": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "7": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "8": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "9": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "10": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        },
+        "11": {
+          "days": [],
+          "late": 0,
+          "excuse": 0
+        }
+      },
+      "id": 8
+    }
+  ],
+  "tempEmp": [
+    {
+      "id": 0
+    }
+  ]
+}

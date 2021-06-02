@@ -1,0 +1,21 @@
+.jumbotron{
+    border-radius: 60px;
+    margin-top: 25px;
+}
+
+/* .mytable{
+   border-radius: 20px; 
+   
+}
+th,td{
+   width:500px ;
+} */
+
+.container{
+    max-width:900px;
+}
+
+.action{
+    width: 5px;
+    text-align: center;
+}

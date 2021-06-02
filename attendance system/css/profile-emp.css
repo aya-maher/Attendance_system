@@ -1,0 +1,43 @@
+/* .jumbotron{
+    border-radius: 60px;
+    margin-top: 25px;
+} */
+.p{
+    display: inline;
+    border-radius: 10px;
+    padding: 10px 8px 8px 5px;
+
+}
+.empName{
+    font-size:35px;
+    font-family:'Times New Roman', Times, serif ;
+    font-style: italic;
+    color: #084c58;
+    margin-top: 10px;
+}
+.empInfo{
+    border: 2px solid rgb(51, 82, 92);
+    border-radius: 40px;
+    padding: 10px 8px 8px 20px;
+    box-shadow: 5px 5px 12px rgb(8, 76, 88);
+    transition: all 2s;
+    font-family: serif;
+    color: #33525c;
+    font-size: 20px;
+    /* align-items: center; */
+    /* height: 300px; */
+}
+
+.container{
+    /* max-width: 1000px; */
+    margin-top: 12px;
+}
+
+/* 
+.mytable{
+    border-radius: 20px; 
+    
+}
+th,td{
+    width:500px ;
+} */

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link href="../css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../css/font-awesome.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../css/main.css">
+    <!-- <style>
+        .jumbotron{
+          border-radius: 60px;
+          margin-top: 25px;
+      }
+      .button{
+        width: auto;  
+      }
+    </style>  
+   -->
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Attendance System</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item" id="home">
+            <!-- <a class="nav-link" href="../pages/register.html">Home <span class="sr-only">(current)</span></a> -->
+        </li>
+        <li class="nav-item ">
+          <a class="nav-link" href="../pages/contactUs.html">Contact Us </a>
+        </li>
+      </ul>
+      <ul class="navbar-nav my-2 my-lg-0">
+        <li class="nav-item active">
+          <a class="nav-link" href="#" onclick="logOut()" >Log Out</a>
+        </li>
+      </ul>
+    </div>
+  </nav> 
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          </button>
+        </div>
+        <div class="modal-body">
+                <!-- <p>Employee Name: John Doe</p> -->
+                <!-- <p>Attendance Time: 8:45 am</p> -->
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn2 button btn-secondary " id="modelBtn" onclick="redirect(event);" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div class="container jumbotron d-flex align-items-center">
+        <form class="col-12 col-sm-8 offset-sm-2  needs-validation" id="up" novalidate>
+
+              <div class="form-group">
+                <label for="validationCustom01">Username</label>
+                <input type="text" class="form-control input" id="username" placeholder="Username"minlength="3" required>
+                <div class="valid-feedback">
+                  Looks good!
+                </div>
+              </div>
+
+             <button class="btn btn-primary mb-2 button" data-toggle="modal" data-target="#exampleModalCenter" id="confirm-attendance" type="submit">Confirm Attendance</button>
+          </form>
+
+    </div>
+   
+    <footer class="bg-light text-center text-lg-start">
+      <!-- Copyright -->
+      <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
+        © 2021 Copyright:
+        <a class="text-dark" href="#">Aya Maher</a>
+      </div>
+      <!-- Copyright -->
+  </footer>
+
+    <script src="../js/JQuery-3.3.1.min.js"></script>
+    <script src="../js/popper.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/confirm-attendance.js"></script>
+   
+</body>
+</html>

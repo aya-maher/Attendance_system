@@ -1,0 +1,111 @@
+
+body{
+    margin:0;
+    background: linear-gradient(90deg,#d0cfd6,#c7e3e6); 
+    font:600 16px/18px 'Open Sans',sans-serif;
+
+    background: url('../images/bg.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;  
+}
+
+.jumbotron{
+    border-radius: 100px;
+    margin-top: 25px;
+ }
+
+.container{
+   width:100%;
+   margin-top: 30px;
+   max-width:600px;
+   min-height:500px;
+   border: 3px double rgb(156, 173, 223);
+   background: linear-gradient(90deg,#d3ceeb,#056970); 
+   background: linear-gradient(90deg,#d3ceeb,#7898aa); 
+   box-shadow: 5px 10px 18px rgb(116, 107, 126);
+   overflow: auto;
+   resize: both;
+   transition: all 2s;
+}
+
+
+  .input{
+      width:100%;
+      border-radius:30px;
+      box-shadow: 0 25px 45px rgba(0,0,0,0.1) ;
+      background: linear-gradient(90deg,#d3ceeb,#c5edf0); 
+      /* background:rgba(255,255,255,.1); */
+    
+  }
+  
+  .input:hover{
+    transform: skew(5deg);
+    background: linear-gradient(90deg,#e7c4d7, #b9adec); 
+  }
+  
+
+  .box{
+      margin-top: 80px;
+     
+  }
+
+  .button{
+    /* width: 130px;   */
+    width: auto;  
+    border-radius: 20px;
+    background: linear-gradient(90deg,#0162c8,#69e8fc);  
+  }
+  .btn2{
+    background: linear-gradient(90deg,#755bea,#e46eaf);  
+  }
+
+  .btn2:hover{
+    background: linear-gradient(90deg,#b9adec,#e7c4d7);  
+  }
+   .button:hover{
+    transform: rotate(180deg);
+    transition: all 3s;
+    transform: scale(1.1);
+    background: linear-gradient(90deg,#afa1f0,#86d4e7);  
+}
+
+ 
+
+.mytable{
+ border-radius: 20px; 
+ 
+}
+th,td{
+ width:500px ;
+ text-align: center;
+ color: rgb(3, 55, 65);
+}
+th{
+  color: #852b74;
+}
+tr:hover{
+  border-radius:50px;
+  box-shadow: 0 25px 45px rgba(0,0,0,0.1) ;
+  background: linear-gradient(90deg,#d3ceeb,#a2cccf); 
+}
+
+.modal-content{
+  margin-top: 30px;
+  max-width:500px;
+  height:250px;
+  border-radius: 50px;
+  border: 3px double rgb(156, 173, 223);
+  background: linear-gradient(90deg,#d3ceeb,#056970); 
+  box-shadow: 5px 10px 18px rgb(116, 107, 126);
+  overflow: auto;
+  resize: both;
+  transition: all 2s;
+  text-align: center;
+  align-items: center;
+}
+
+#modelBtn{
+  width: 130px;
+}

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link href="../css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../css/font-awesome.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../css/main.css">
+    <link href="../css/profile-admin.css" rel="stylesheet" />  
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Attendance System</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+        
+          </ul>
+          <ul class="navbar-nav my-2 my-lg-0">
+            <li class="nav-item active">
+              <a class="nav-link" href="#" onclick="logOut()" >Log Out</a>
+            </li>
+          </ul>
+        </div>
+      </nav> 
+
+    <div class="container jumbotron align-items-center">
+        <div class="col-12  col-md-12 col-lg-12 mb-4 p-4">
+             <button class="btn btn2 button btn-primary btn-md mb-2" id="btn1" type="submit" onclick="getAll()">All Employees</button>
+             <button class="btn btn2 button btn-primary btn-md mb-2" id="btn2" type="submit" onclick="getFullReport()">Full report</button>
+             <button class="btn btn2 button btn-primary btn-md mb-2" id="btn3" type="submit" onclick="getLateReport()">Late report</button>
+             <button class="btn btn2 button btn-primary btn-md mb-2" id="btn5" type="submit" onclick="getExcuseReport()">Excuse report</button>
+             <button class="btn btn2 button btn-primary btn-md mb-2" id="btn4" type="submit" onclick="getEmployessData()">Employee brief</button>
+             <section id="reports"> 
+                 <!-- data from js  -->
+            </section>  
+          
+      
+            <button class="btn btn2 button btn-primary mb-2" onclick="getAllDataRequests()" type="submit">Requestes</button>
+            <!-- <button class="btn btn2 button btn-primary mb-2" onclick="logOut()" type="submit">Log Out</button> -->
+            
+            <section id="requests"> 
+                <!-- Requestes (TempEmp) -->
+            </section>
+        </div>
+       
+    </div>
+
+    <footer class="bg-light text-center text-lg-start">
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
+          © 2021 Copyright:
+          <a class="text-dark" href="#">Aya Maher</a>
+        </div>
+        <!-- Copyright -->
+    </footer>
+   
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script src="../js/JQuery-3.3.1.min.js"></script>
+    <script src="../js/popper.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/profile-admin.js"></script> 
+    <!-- <script src="../js/register-to-admin.js"></script> -->
+    <!-- <script src="../js/register.js"></script> -->
+    <script></script>
+</body>
+</html>

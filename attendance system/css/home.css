@@ -1,0 +1,32 @@
+ body{
+    background-color: #e9ecef;
+}
+
+.jumbotron{
+  border-radius: 60px;
+  margin-top: 15%;
+  
+}
+/* .main{
+  width:800px;
+  height:400px;
+  margin:60px auto;
+  padding:10px;
+  display:-webkit-box;
+  text-align: center;
+  border: 3px double rgb(220, 218, 230);
+  background: -webkit-radial-gradient(circle, rgb(252, 250, 248) 40%,rgb(65, 95, 107));
+  box-shadow: 5px 10px 18px rgb(152, 183, 248);
+  border-radius: 10px;
+  overflow: auto;
+  resize: both;
+  transition: all 2s;
+} */
+#btn1 , #btn2{
+  display:inline-block;
+  width: 200px;
+  height: 40px;
+  border-radius: 25px;
+  margin-bottom: 15px;
+
+}

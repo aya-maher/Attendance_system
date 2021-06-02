@@ -1,0 +1,56 @@
+/* .form-box{
+    width: 1000px;
+    height: 600px;
+    border: 1px solid gray;
+    background-color: #e9ecef;
+    margin-top: 25px;
+} */
+
+/* body{
+    background-color: #e9ecef;
+} */
+.jumbotron{
+    border-radius: 70px;
+    margin-top: 25px;
+}
+
+#validationCustom01:required:valid {
+    background: url(../images/valid-icon.png) no-repeat 99% 50%;
+    background-position: right 6px center;
+}
+#validationCustom01:focus:invalid {
+    background:  url(../images/invalid-icon.png) no-repeat 99% 50%;
+    background-position: right 6px center;
+}
+#validationCustom02:required:valid {
+    background: url(../images/valid-icon.png) no-repeat 99% 50%;
+    background-position: right 6px center;
+}
+#validationCustom02:focus:invalid {
+    background:  url(../images/invalid-icon.png) no-repeat 99% 50%;
+    background-position: right 6px center;
+}
+#validationCustom03:required:valid {
+    background: url(../images/valid-icon.png) no-repeat 99% 50%;
+    background-position: right 6px center;
+}
+#validationCustom03:focus:invalid {
+    background:  url(../images/invalid-icon.png) no-repeat 99% 50%;
+    background-position: right 6px center;
+}
+#validationCustom04:required:valid {
+    background: url(../images/valid-icon.png) no-repeat 99% 50%;
+    background-position: right 6px center;
+}
+#validationCustom04:focus:invalid {
+    background:  url(../images/invalid-icon.png) no-repeat 99% 50%;
+    background-position: right 6px center;
+}
+#validationCustom05:required:valid {
+    background: url(../images/valid-icon.png) no-repeat 99% 50%;
+    background-position: right 6px center;
+}
+#validationCustom05:focus:invalid {
+    background:  url(../images/invalid-icon.png) no-repeat 99% 50%;
+    background-position: right 6px center;
+}
